@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T15:06:46.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="08U6FYVhhqy8zFvMBEIX" type="github"><diagram id="B8gVTaYEkMwTHzwImn5i">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-11T15:08:05.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="lfEN4f_GVS3EWtvn0K1t" type="github">
+  <diagram id="yIvNy-_KarOl2npcpyR5" name="Page-1">
+    <mxGraphModel dx="1210" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="120" as="sourcePoint" />
+            <mxPoint x="163" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-3" value="Enter Student Marks&lt;br&gt;&lt;br&gt;Enter Number of Students" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="240" as="sourcePoint" />
+            <mxPoint x="159.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-5" value="Compute Average=&lt;br&gt;Student Marks / No. of Students" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="400" as="sourcePoint" />
+            <mxPoint x="159.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-7" value="Display Average" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-8" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze2tFGgjxKluO8lybZa8-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.5" y="530" as="sourcePoint" />
+            <mxPoint x="159.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
